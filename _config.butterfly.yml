@@ -287,7 +287,7 @@ aside:
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
+      text: 跟我来
       link: https://github.com/wanghao8fh
   card_announcement:
     enable: true
