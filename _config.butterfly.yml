@@ -256,7 +256,7 @@ noticeOutdate:
 # --------------------------------------
 footer:
   nav:
-  owner: Andy
+  owner:
     enable: true
     since: 2025
   # Copyright of theme and framework
