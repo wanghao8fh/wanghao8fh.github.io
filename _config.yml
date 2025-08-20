@@ -96,13 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-jsimple
-
-# Enable local search, you must do this, otherwise it will not work for search(when press 'Shift' key)
-search:
-  path: search.json
-  field: all
-  content: true
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
