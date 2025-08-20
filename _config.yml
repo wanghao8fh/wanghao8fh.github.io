@@ -8,8 +8,8 @@ subtitle: ''
 description: '一个不定时更新的博客，你可以看到任何我感兴趣的内容:D'
 keywords:
 author: Andy W
-language: en
-timezone: ''
+language: zh
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,7 +96,13 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-jsimple
+
+# Enable local search, you must do this, otherwise it will not work for search(when press 'Shift' key)
+search:
+  path: search.json
+  field: all
+  content: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
