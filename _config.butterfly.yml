@@ -53,10 +53,10 @@ fab fa-github: https://github.com/wanghao8fh || Github || '#24292e'
 # Image Settings
 # --------------------------------------
 
-favicon: ./node_modules/hexo-theme-butterfly/source/img/favicon.png
+favicon: img/favicon.png
 
 avatar:
-  img: ./node_modules/hexo-theme-butterfly/source/img/butterfly-icon.png
+  img: /img/butterfly-icon.png
   effect: false
 
 # Disable all banner images
